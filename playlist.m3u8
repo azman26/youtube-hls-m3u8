@@ -38,3 +38,9 @@ https://hls.youtb.workers.dev/channel/UCSrZ3UV4jOidv8ppoVuvW9Q.m3u8
 
 #EXTINF:-1 group-title="News" tvg-country="IN" tvg-language="English" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLSsQCQ5OPDxOO21aNL5b7dHEA-42JUP2W7oxMefwA" tvg-id="", Republic World
 https://hls.youtb.workers.dev/channel/UCwqusr8YDwM-3mEYTDeJHzw.m3u8
+
+#EXTINF:-1 group-title="News" tvg-country="Taiwan" tvg-language="chinese" tvg-logo="" tvg-id="", Cti News
+https://hls.youtb.workers.dev/channel/UCpu3bemTQwAU8PqM4kJdoEQ.m3u8
+
+#EXTINF:-1 group-title="News" tvg-country="Taiwan" tvg-language="chinese" tvg-logo="" tvg-id="", Ctti News
+https://hls.youtb.workers.dev/channel/UC5nwNW4KdC0SzrhF9BXEYOQ.m3u8
